@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shervin Khalafi, a second-year PhD student of [Electrical & Systems Engineeering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). I am advised by [Prof. Alejandro Ribeiro][https://alelab.seas.upenn.edu/alejandro-ribeiro/]. 
+I am Shervin Khalafi, a second-year PhD student of [Electrical & Systems Engineeering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/). I am advised by [Prof. Alejandro Ribeiro](https://alelab.seas.upenn.edu/alejandro-ribeiro/). 
 
 My research inteterests include graph-based machine learning, optimization theory, and generative models. In particular, I am currently developing constrained optimization frameworks for training generative models (diffusion models in particular) under requirements. I am also exploring
 how to design diffusion processes that are best-suited to generating graphs.
