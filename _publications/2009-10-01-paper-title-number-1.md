@@ -1,7 +1,7 @@
 ---
 title: "Constrained Diffusion Models via Dual Training"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Diffusion models are prone to generating biased data based on the training dataset. To address this issue, we develop constrained diffusion models by imposing diffusion constraints based on desired distributions that are informed by requirements. We show that our constrained diffusion models generate new data from a mixture data distribution that achieves the optimal trade-off among objective and constraints. To train constrained diffusion models, we develop a dual training algorithm and characterize the optimality of the trained constrained diffusion model. In experiments these models effectively ensure fair sampling from underrepresented classes and prevent overfitting when adapting to new datasets.'
 date: August 2024
