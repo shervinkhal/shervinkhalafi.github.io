@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my most up-to-date CV here
+You can find my most up-to-date CV [here]().
