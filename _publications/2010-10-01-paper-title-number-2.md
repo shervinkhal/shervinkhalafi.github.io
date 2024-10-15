@@ -1,7 +1,7 @@
 ---
 title: "Neural Tangent Kernels Motivate Cross-Covariance Graphs in Neural Networks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Neural tangent kernels (NTKs) provide a theoretical regime to analyze the learning and generalization behavior of over-parametrized neural networks. By leveraging the structure of NTKs for graph neural networks (GNNs), we theoretically investigate NTKs and alignment, where our analysis reveals that optimizing the alignment translates to optimizing the graph representation in a GNN. Our results further establish theoretical guarantees on the optimality of the alignment for a two-layer GNN and these guarantees are characterized by the graph representation being a function of the cross-covariance between the input and the output data. The theoretical insights drawn from the analysis of NTKs are validated by our experiments focused on a multi-variate time series prediction task.'
 date: May 2024
